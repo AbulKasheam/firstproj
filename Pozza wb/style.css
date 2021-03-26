@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+img strong {
+  font-family: 'Anton', sans-serif;
+}
+
+.container {
+  width: 1640px;
+  height: auto;
+}
+
+.main-menu {
+  background: red;
+}
+
+.main-menu img {
+  width: 60px;
+}
+/*# sourceMappingURL=style.css.map */

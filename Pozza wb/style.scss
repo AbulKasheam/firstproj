@@ -1,0 +1,25 @@
+
+ 
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    strong{
+        font-family: 'Anton', sans-serif;
+    }
+}
+.container{
+    width: 1640px;
+    height: auto;
+}
+//root menu//
+.main-menu{
+    background: red;
+    img{
+        width: 60px;
+    }
+}

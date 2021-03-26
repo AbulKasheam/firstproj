@@ -1,0 +1,87 @@
+
+h1{
+    color: #68217a;
+}
+
+table{
+    text-align: center;
+    background-color: #f8efba;
+    border: 1px solid #b2b2b2;
+    width: 600px;
+    height: 400px;
+}
+.t-row{
+    background-color: #ffff00;
+}
+.sun{
+    background-color: #ff3f34;
+}
+.mon{
+    background-color: #0fbcf9;
+}
+.tue{
+    background-color: #78e08f;
+}
+.wed{
+    background-color: #d980fa;
+}
+.thu{
+    background-color: #d1d8e0;
+}
+
+
+
+.sat{
+    background-color: #f6b93b;
+}
+.sir{
+    background-color: #ffcccc;
+}
+.cN1{
+    background-color: #ee82ee;
+}
+.cN2{
+    background-color: #8e4abe;
+}
+.cN3{
+    background-color: #2222fd;
+}
+.cN4{
+    background-color:#008000 ;
+}
+.cN5{
+    background-color: #ffff00;
+}
+.cN6{
+    background-color: #ffa500;
+}
+.cN7{
+    background-color: #ee82ee;
+}
+.cN8{
+    background-color: #8e4abe;
+}
+.cN9{
+    background-color: #2222fd;
+}
+.cN10{
+    background-color: #008000;
+}
+.cN11{
+    background-color: #ffff00;
+}
+.cN12{
+    background-color: #ffa500;
+}
+.cN13{
+    background-color: #ffa500;
+}
+.shiftOne{
+    background-color: #ff6b81;
+}
+.shiftTwo{
+    background-color: #2ed573;
+}
+.roomNumber{
+    background-color: #c4e538;
+}

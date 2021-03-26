@@ -1,0 +1,25 @@
+.banner{
+    background-color: #000000;
+}
+.banner h1{
+    color: #e8e8e8;
+    text-transform: uppercase;
+}
+.banner h1 sup{
+    color: #c44f3d;
+}
+.banner h1 .assaigmentDay{
+    color: #64b1e0;
+}
+.banner p{
+    color: #e8e8e8;
+}
+/* ABOUT SECTION */
+.aboutSection h4 {
+    color: #27272b;
+    background-color:#834646 ;
+}
+.bannerSection p{
+    font-weight: 400;
+    font-size: 18px;
+}
